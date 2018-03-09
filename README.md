@@ -7,7 +7,9 @@
 ### On the first window MAKE SURE to click the Add To Path checkbox
 
 ![Python Image 1](/images/python1.png)
-At the end you may be given an option to "Disable Path Length". If the option is there choose it (or python wont be added to your path). If it's not there then you don't have to worry about it.
+
+### At the end you may be given an option to "Disable Path Length". If the option is there choose it (or python wont be added to your path). If it's not there then you don't have to worry about it.
+
 Pip should be installed with python and you can test this buying opening your command prompt and typing "pip help"
 Now let's install virtualenv
 In your command prompt run pip install virtualenv
