@@ -14,7 +14,7 @@
 
 #### Pip should be installed with python and you can test this buying opening your command prompt and typing `pip help`
 
-#### Now let's install virtualenv
+## Now let's install virtualenv
 
 #### In your command prompt run `pip install virtualenv`
 
@@ -24,7 +24,7 @@
 
 #### Now you have python virtualenv and virtualwrapperenv installed on your windows machine.
 
-### Here is the usage for it
+## Here is the usage for it
 
 #### To make a virtuatl environment a virtual environment for us to use run this command in your command prompt (usually in the folder you want to do your project in)
 
