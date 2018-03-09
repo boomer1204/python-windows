@@ -1,10 +1,10 @@
 # How to install Python and Virtualenv on Windows 10
 
-##### Intall Python from https://www.python.org/downloads/
+#### Intall Python from https://www.python.org/downloads/
 
-##### Right click the installer file and choose Run As Administrator
+#### Right click the installer file and choose Run As Administrator
 
-##### On the first window MAKE SURE to click the Add To Path checkbox
+#### On the first window MAKE SURE to click the Add To Path checkbox
 
 ![Python Image 1](/images/python1.png)
 
