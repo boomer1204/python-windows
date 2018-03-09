@@ -1,10 +1,10 @@
 # How to install Python and Virtualenv on Windows 10
 
-## Intall Python from https://www.python.org/downloads/
+### Intall Python from https://www.python.org/downloads/
 
-## Right click the installer file and choose Run As Administrator
+### Right click the installer file and choose Run As Administrator
 
-## On the first window MAKE SURE to click the Add To Path checkbox
+### On the first window MAKE SURE to click the Add To Path checkbox
 
 ![Python Image 1](/images/python1.png)
 At the end you may be given an option to "Disable Path Length". If the option is there choose it (or python wont be added to your path). If it's not there then you don't have to worry about it.
