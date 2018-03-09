@@ -42,4 +42,4 @@
 
 #### To reactivate your virtual environment just type `workon HelloWorld` where HelloWorld is the environment you created for the project
 
-![CMD 3 Image](images/cmd2.png)
+![CMD 3 Image](images/cmd3.png)
